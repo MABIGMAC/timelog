@@ -41,7 +41,7 @@ SMART LEARNING SPACE
 ## Week 3
 
 ### 20 Oct 2019
-
+* *2 hours* Meeting with industry supervisors
 * *4 hours* Learning to train the model with mock data
 * *1 hour* Learning to format dataset to coco dataset format
 * *3 hours* Annotate datasets with coco annotator, a program under coco
@@ -55,7 +55,7 @@ SMART LEARNING SPACE
 ## Week 4
 
 ### 27 Oct 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Cleared misunderstandings on project scope and redefined requirements for academic and industry componments. 
 * *2 hours* Modified report, writing introduction
 
@@ -67,7 +67,7 @@ SMART LEARNING SPACE
 ## Week 5
 
 ### 4 Nov 2019
-
+* *2 hours* Meeting with industry supervisors
 * *4 hours* Use sample code to visualise ideal output for project
 * *2 hours* Write progress report
 * *3 hours* Write dissertation
@@ -80,7 +80,7 @@ SMART LEARNING SPACE
 ## Week 6
 
 ### 11 Nov 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Equipment for recording dataset received from industry, 2 gopro hero 7 and 1 intel realsense camera from the academic side.
 * *3 hours* Modified literature review to be 8 to 10 pages in the dissertation
 
@@ -94,7 +94,7 @@ SMART LEARNING SPACE
 ## Week 7
 
 ### 18 Nov 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Replaced training dataset with codalab competition, which contains multimodal training data for face, voice, and gesture
 * *4 hours* added new inputs of emotion recognition into dissertation
 
@@ -107,7 +107,7 @@ SMART LEARNING SPACE
 ## Week 8
 
 ### 25 Nov 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Gathered 8 participants for the recording of own dataset, will be recorded with multiple cameras
 * *6 hours* Recording dataset with gopro and proximity cameras, as additional potential sources of input.
 
@@ -119,18 +119,19 @@ SMART LEARNING SPACE
 ## Week 9
 
 ### 2 Dec 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Report writing on background 
 * *6 hours* Research on CNN and decided on ResNet for training model architecture
 
 ### 3 Dec 2019
 
+* *1.5 hours* clarification on machine learning from supervisors
 * *8 hours* Find template for resnet architecture and add in classes to take in custom dataloader from the CIFAR-10
 
 ## Week 10
 
 ### 9 Dec 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Begin training model with dataset with 1202 layers and 164 epochs
 * *2 hours* 3 datasets, 2 from codalab, training and validation, and own dataset for validation. codalab validation will be combined with own dataset.
 
@@ -143,7 +144,7 @@ SMART LEARNING SPACE
 ## Week 11
 
 ### 16 Dec 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* loaded newly trained model into program to predict emotions in real time
 
 ### 17 Dec 2019
@@ -154,7 +155,7 @@ SMART LEARNING SPACE
 ## Week 12
 
 ### 23 Dec 2019
-
+* *2 hours* Meeting with industry supervisors
 * *6 hours* Developed code to allow live program to detect multiple faces
 
 ### 24 Dec 2019
@@ -165,7 +166,7 @@ SMART LEARNING SPACE
 ## Week 13
 
 ### 30 Dec 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 Hours* Added Bibtex references inside latex document. 
 
 ### 31 Dec 2019
@@ -175,7 +176,7 @@ SMART LEARNING SPACE
 ## Week 14
 
 ### 6 Jan 2019
-
+* *2 hours* Meeting with industry supervisors
 * *4 hours* Added saved points between each epoch so checkpoints can be made and resumed
 
 ### 7 Jan 2019
@@ -185,7 +186,7 @@ SMART LEARNING SPACE
 ## Week 15
 
 ### 13 Jan 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Prioritizing the accuracy of the model over then speed it predicts the images. 
 * *8 hours* Working on training models from other inputs, voice and gestures
 
@@ -197,7 +198,7 @@ SMART LEARNING SPACE
 ## Week 16
 
 ### 20 Jan 2019
-
+* *2 hours* Meeting with industry supervisors
 * *24 hours* Trained Models of joints and audio 
 
 ### 21 Jan 2019
@@ -208,7 +209,7 @@ SMART LEARNING SPACE
 ## Week 17
 
 ### 27 Jan 2019
-
+* *2 hours* Meeting with industry supervisors
 * *3 hours* Attempt to increase accuracy of the three models
 
 ### 28 Jan 2019
@@ -219,7 +220,7 @@ SMART LEARNING SPACE
 ## Week 18
 
 ### 3 Feb 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Meeting with industry supervisors
 * *8 hours* Replace training code with new training to improve accuracy
 
@@ -231,19 +232,17 @@ SMART LEARNING SPACE
 ## Week 19
 
 ### 10 Feb 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Develop code to improve accuracy 
 
 ### 11 Feb 2019
-
-* *1 hour* Meeting with academic supervisors
 * *24 hours* Train models for face, voice and gesture
 
 
 ## Week 20
 
 ### 17 Feb 2019
-
+* *2 hours* Meeting with industry supervisors
 * *2 hours* Added confusion matrix
 
 ### 18 Feb 2019
@@ -252,13 +251,13 @@ SMART LEARNING SPACE
 * *4 hours* Modified models to improve accuracy, accuracies are recorded to be compared in the evaluation
 
 ### 19 Feb 2019
-
+* *2 hours* Meeting with industry supervisors
 * *24 hours* Trained modified code to create models for evaluation
 
 ## Week 21 
 
 ### 24 Feb 2019
-
+* *2 hours* Meeting with industry supervisors
 * *3 hours* Combined voice and gesture model to provide an overall emotion predicted from teachers
 
 ### 25 Feb 2019
@@ -270,7 +269,7 @@ SMART LEARNING SPACE
 ## Week 22
 
 ### 2 March 2019
-
+* *2 hours* Meeting with industry supervisors
 * *13 hours* Wrote report and conclusion
 
 ### 3 March 2019
